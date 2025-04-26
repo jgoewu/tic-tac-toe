@@ -56,7 +56,7 @@
     padding: 0;
   }
   
-  .square {
+  .square .circle {
     background: #fff;
     border: 1px solid #999;
     float: left;
